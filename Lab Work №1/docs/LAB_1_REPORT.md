@@ -112,6 +112,7 @@
 
 ### Диаграмма Use case для администратора
 <img width="2238" height="1600" alt="image" src="https://github.com/user-attachments/assets/8a0db1d6-2d02-4790-bd2c-34d8776ef6a8" />
+
 ### Диаграмма Use case для сотрудников (оцениваемого и оценивающего), HR BP, сотрудника цифровой академии, системы
 <img width="2157" height="1738" alt="image" src="https://github.com/user-attachments/assets/2c056adf-a730-4c98-a2ad-1e5532034b11" />
 
